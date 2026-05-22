@@ -1,0 +1,194 @@
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\appsettings.Development.json
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\appsettings.json
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.staticwebassets.runtime.json
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.staticwebassets.endpoints.json
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.exe
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.deps.json
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.runtimeconfig.json
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.dll
+F:\Programming\C#\projects(.NET)\IMS\bin\Debug\net10.0\IMS.pdb
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.AssemblyInfoInputs.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.AssemblyInfo.cs
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.csproj.CoreCompileInputs.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.MvcApplicationPartsAssemblyInfo.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.RazorAssemblyInfo.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.RazorAssemblyInfo.cs
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\scopedcss\bundle\IMS.styles.css
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\scopedcss\projectbundle\IMS.bundle.scp.css
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\9x2vgjhj5d-{0}-b9sayid5wm-b9sayid5wm.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\4c4wz8nh97-{0}-61n19gt1b8-61n19gt1b8.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\pyw5i0zp5y-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\4jac312428-{0}-bqjiyaj88i-bqjiyaj88i.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\jpfomnmy4d-{0}-c2jlpeoesf-c2jlpeoesf.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\85zgaibh1e-{0}-erw9l3u2r3-erw9l3u2r3.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\ufvoytva7d-{0}-aexeepp0ev-aexeepp0ev.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\kguwg7ysyf-{0}-d7shbmvgxk-d7shbmvgxk.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\aownfgkolm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\5xbq3g81ld-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\qh64oqblbo-{0}-cosvhxvwiu-cosvhxvwiu.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\g34lxcg6vr-{0}-ub07r2b239-ub07r2b239.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\ielyv7dxva-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\89ufwqps89-{0}-b7pk76d08c-b7pk76d08c.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\qn0vtn37m4-{0}-fsbi9cje9m-fsbi9cje9m.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\r9wx7gkdq5-{0}-rzd6atqjts-rzd6atqjts.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\u7win47xeq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\587btaez2r-{0}-dxx9fxp4il-dxx9fxp4il.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\p3ups3ke61-{0}-jd9uben2k1-jd9uben2k1.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\iqnojuncol-{0}-khv3u5hwcm-khv3u5hwcm.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\636afjff9j-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\hli2w9pe5j-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\qpr8qk4pcq-{0}-c2oey78nd0-c2oey78nd0.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\zpzjae09q3-{0}-tdbxkamptv-tdbxkamptv.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\kotm55g51f-{0}-j5mq2jizvt-j5mq2jizvt.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\rjou8jux56-{0}-06098lyss8-06098lyss8.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\8wsew4r7fn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\7nnyj63hxf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\tv31p8r906-{0}-pj5nd1wqec-pj5nd1wqec.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\6eeitj2qld-{0}-46ein0sx1k-46ein0sx1k.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\pkunrgmtep-{0}-v0zj4ognzu-v0zj4ognzu.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\5o3k7pn6ge-{0}-37tfw0ft22-37tfw0ft22.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\n49ay9izfv-{0}-hrwsygsryq-hrwsygsryq.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\kswzir1iup-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\0lrr5qjbno-{0}-ft3s53vfgj-ft3s53vfgj.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\qb3ne93tis-{0}-6cfz1n2cew-6cfz1n2cew.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\3xlvclrzay-{0}-6pdc2jztkx-6pdc2jztkx.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\6dv8j5jvbt-{0}-493y06b0oq-493y06b0oq.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\y0xa6ogx2m-{0}-iovd86k7lj-iovd86k7lj.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\r4hessurrr-{0}-vr1egmr9el-vr1egmr9el.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\ewfaspyijf-{0}-kbrnm935zg-kbrnm935zg.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\o20gcnf098-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\zyp8qpf8q2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\7dopbrmgqo-{0}-notf2xhcfb-notf2xhcfb.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\yfjtrnvrh3-{0}-h1s4sie4z3-h1s4sie4z3.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\1slrq3rkem-{0}-63fj8s7r0e-63fj8s7r0e.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\5no56xomli-{0}-0j3bgjxly4-0j3bgjxly4.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\fw52r41quy-{0}-47otxtyo56-47otxtyo56.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\2hvtp1o3b8-{0}-4v8eqarkd7-4v8eqarkd7.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\4dcogxzg36-{0}-356vix0kms-356vix0kms.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\8r8aqqs51l-{0}-83jwlth58m-83jwlth58m.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\yuodatl4kd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\712i6hzinq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\wc3zqpkrew-{0}-ag7o75518u-ag7o75518u.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\yj9x6savm3-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\2mag8e0goz-{0}-0i3buxo5is-0i3buxo5is.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\7q4i748fqr-{0}-o1o13a6vjx-o1o13a6vjx.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\9rwfaiule5-{0}-ttgo8qnofa-ttgo8qnofa.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\fisd545o41-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\jgke8voo7d-{0}-muycvpuwrr-muycvpuwrr.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\2oyoeuedff-{0}-87fc7y1x7t-87fc7y1x7t.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\g73tookpgb-{0}-mlv21k5csn-mlv21k5csn.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\ewa8amudze-{0}-pemd14ty36-pemd14ty36.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\compressed\ynwqc5247o-{0}-pemd14ty36-pemd14ty36.gz
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\staticwebassets.build.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\staticwebassets.development.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\swae.build.ex.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.dll
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\refint\IMS.dll
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.pdb
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\IMS.genruntimeconfig.cache
+F:\Programming\C#\projects(.NET)\IMS\obj\Debug\net10.0\ref\IMS.dll
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\appsettings.Development.json
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\appsettings.json
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.staticwebassets.endpoints.json
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.staticwebassets.runtime.json
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.exe
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.deps.json
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.runtimeconfig.json
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.dll
+f:\Programming\C#\projects(.NET)\inventory management system\bin\Debug\net10.0\IMS.pdb
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\rpswa.dswa.cache.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.GeneratedMSBuildEditorConfig.editorconfig
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.AssemblyInfoInputs.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.AssemblyInfo.cs
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.csproj.CoreCompileInputs.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.MvcApplicationPartsAssemblyInfo.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.RazorAssemblyInfo.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.RazorAssemblyInfo.cs
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\rjimswa.dswa.cache.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\scopedcss\bundle\IMS.styles.css
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\scopedcss\projectbundle\IMS.bundle.scp.css
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\9x2vgjhj5d-{0}-b9sayid5wm-b9sayid5wm.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\4c4wz8nh97-{0}-61n19gt1b8-61n19gt1b8.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\pyw5i0zp5y-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\4jac312428-{0}-bqjiyaj88i-bqjiyaj88i.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\jpfomnmy4d-{0}-c2jlpeoesf-c2jlpeoesf.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\85zgaibh1e-{0}-erw9l3u2r3-erw9l3u2r3.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\ufvoytva7d-{0}-aexeepp0ev-aexeepp0ev.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\kguwg7ysyf-{0}-d7shbmvgxk-d7shbmvgxk.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\aownfgkolm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\5xbq3g81ld-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\qh64oqblbo-{0}-cosvhxvwiu-cosvhxvwiu.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\g34lxcg6vr-{0}-ub07r2b239-ub07r2b239.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\ielyv7dxva-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\89ufwqps89-{0}-b7pk76d08c-b7pk76d08c.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\qn0vtn37m4-{0}-fsbi9cje9m-fsbi9cje9m.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\r9wx7gkdq5-{0}-rzd6atqjts-rzd6atqjts.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\u7win47xeq-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\587btaez2r-{0}-dxx9fxp4il-dxx9fxp4il.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\p3ups3ke61-{0}-jd9uben2k1-jd9uben2k1.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\iqnojuncol-{0}-khv3u5hwcm-khv3u5hwcm.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\636afjff9j-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\hli2w9pe5j-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\qpr8qk4pcq-{0}-c2oey78nd0-c2oey78nd0.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\zpzjae09q3-{0}-tdbxkamptv-tdbxkamptv.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\kotm55g51f-{0}-j5mq2jizvt-j5mq2jizvt.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\rjou8jux56-{0}-06098lyss8-06098lyss8.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\8wsew4r7fn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\7nnyj63hxf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\tv31p8r906-{0}-pj5nd1wqec-pj5nd1wqec.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\6eeitj2qld-{0}-46ein0sx1k-46ein0sx1k.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\pkunrgmtep-{0}-v0zj4ognzu-v0zj4ognzu.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\5o3k7pn6ge-{0}-37tfw0ft22-37tfw0ft22.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\n49ay9izfv-{0}-hrwsygsryq-hrwsygsryq.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\kswzir1iup-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\0lrr5qjbno-{0}-ft3s53vfgj-ft3s53vfgj.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\qb3ne93tis-{0}-6cfz1n2cew-6cfz1n2cew.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\3xlvclrzay-{0}-6pdc2jztkx-6pdc2jztkx.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\6dv8j5jvbt-{0}-493y06b0oq-493y06b0oq.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\y0xa6ogx2m-{0}-iovd86k7lj-iovd86k7lj.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\r4hessurrr-{0}-vr1egmr9el-vr1egmr9el.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\ewfaspyijf-{0}-kbrnm935zg-kbrnm935zg.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\o20gcnf098-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\zyp8qpf8q2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\7dopbrmgqo-{0}-notf2xhcfb-notf2xhcfb.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\yfjtrnvrh3-{0}-h1s4sie4z3-h1s4sie4z3.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\1slrq3rkem-{0}-63fj8s7r0e-63fj8s7r0e.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\5no56xomli-{0}-0j3bgjxly4-0j3bgjxly4.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\fw52r41quy-{0}-47otxtyo56-47otxtyo56.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\2hvtp1o3b8-{0}-4v8eqarkd7-4v8eqarkd7.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\4dcogxzg36-{0}-356vix0kms-356vix0kms.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\8r8aqqs51l-{0}-83jwlth58m-83jwlth58m.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\yuodatl4kd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\712i6hzinq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\wc3zqpkrew-{0}-ag7o75518u-ag7o75518u.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\yj9x6savm3-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\2mag8e0goz-{0}-0i3buxo5is-0i3buxo5is.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\7q4i748fqr-{0}-o1o13a6vjx-o1o13a6vjx.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\9rwfaiule5-{0}-ttgo8qnofa-ttgo8qnofa.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\fisd545o41-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\jgke8voo7d-{0}-muycvpuwrr-muycvpuwrr.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\2oyoeuedff-{0}-87fc7y1x7t-87fc7y1x7t.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\g73tookpgb-{0}-mlv21k5csn-mlv21k5csn.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\ewa8amudze-{0}-pemd14ty36-pemd14ty36.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\compressed\ynwqc5247o-{0}-pemd14ty36-pemd14ty36.gz
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\staticwebassets.build.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\staticwebassets.build.json.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\staticwebassets.development.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\swae.build.ex.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.dll
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\refint\IMS.dll
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.pdb
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\IMS.genruntimeconfig.cache
+f:\Programming\C#\projects(.NET)\inventory management system\obj\Debug\net10.0\ref\IMS.dll
