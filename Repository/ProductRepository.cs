@@ -1,3 +1,6 @@
+using IMS.Models;
+using System.Collections.Generic;
+using System.Linq;
 public class ProductRepository
 {
     private static List<Product> _products = new List<Product>
